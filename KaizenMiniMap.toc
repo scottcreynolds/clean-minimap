@@ -1,0 +1,9 @@
+## Interface: 30200
+
+## Title: KaizenMiniMap
+## Version: Alpha
+## Author: loganvi
+## X-Category: Map & Minimap
+## Notes: Cleans up the minimap
+
+KaizenMiniMap.lua
