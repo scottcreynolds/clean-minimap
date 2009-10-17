@@ -1,0 +1,3 @@
+KaizenMinimap is a simple, light-weight World of Warcraft enabling my opinion of a clean and minimalist minimap.
+
+There is no in-game config (presently, not sure I will ever add it). The options are set with bool values from within KaizenMiniMap.lua. Feel free to set them to match your own opinions of what a clean minimap looks like.

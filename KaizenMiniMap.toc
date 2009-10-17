@@ -2,8 +2,11 @@
 
 ## Title: KaizenMiniMap
 ## Version: Alpha
-## Author: loganvi
+
 ## X-Category: Map & Minimap
-## Notes: Cleans up the minimap
+
+## Author: scottcreynolds (loganvi of illidan-us)
+## X-Website: http://scottcreynolds.com
+## Notes: minimalist minimap mod - clean up that minimap
 
 KaizenMiniMap.lua
