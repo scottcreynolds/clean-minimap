@@ -9,4 +9,4 @@
 ## X-Website: http://scottcreynolds.com
 ## Notes: minimalist minimap mod - clean up that minimap
 
-KaizenMiniMap.lua
+KaizenMinimap.lua

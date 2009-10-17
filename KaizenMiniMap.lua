@@ -1,5 +1,5 @@
 --[[
-	KaizenMiniMap
+	KaizenMinimap
 	
 	author: scottcreynolds (loganvi of illidan-US)
 	
