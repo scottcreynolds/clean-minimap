@@ -1,12 +1,12 @@
 ## Interface: 30200
 
-## Title: KaizenMiniMap
+## Title: KaizenMinimap
 ## Version: Alpha
 
 ## X-Category: Map & Minimap
 
 ## Author: scottcreynolds (loganvi of illidan-us)
-## X-Website: http://scottcreynolds.com
+## X-Website: http://github.com/scottcreynolds	
 ## Notes: minimalist minimap mod - clean up that minimap
 
 KaizenMinimap.lua
