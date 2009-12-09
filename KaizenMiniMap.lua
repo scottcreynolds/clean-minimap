@@ -35,11 +35,11 @@ function SetMinimapOptions()
 		MinimapBorderTop:SetAlpha(0)
 	end
 
-	if (showMinimapToggleButton) then
+	--[[if (showMinimapToggleButton) then
 		MinimapToggleButton:Show()
 	else
 		MinimapToggleButton:Hide()
-	end
+	end--]]
 
 	if (showZoneText) then
 		MinimapZoneText:Show()
