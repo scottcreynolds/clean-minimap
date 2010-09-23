@@ -1,11 +1,11 @@
-## Interface: 30300
+## Interface: 40100
 
 ## Title: KaizenMinimap
-## Version: Alpha
+## Version: 1.0
 
 ## X-Category: Map & Minimap
 
-## Author: scottcreynolds (kanban of illidan-us)
+## Author: LoganVi
 ## X-Website: http://github.com/scottcreynolds	
 ## Notes: minimalist minimap mod - clean up that minimap
 

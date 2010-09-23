@@ -8,13 +8,12 @@
 	
 --]]
 
-local showWorldMapButton = false
-local showZoomButtons = false
-local showCalendar = true
-local showTracking = true
-local showZoneText = true
-local showZoneTextBorder = false
-local showMinimapToggleButton = false
+local showWorldMapButton = false	--World Map Button
+local showZoomButtons = false		--Zoom In/Out (note  you won't be able to change zoom)
+local showCalendar = true			--Calendar Button
+local showTracking = true			--Tracking button
+local showZoneText = true           --Text at top of minimap
+local showZoneTextBorder = false    --This is the box around the text at the top of the minimap
 	
 local f = CreateFrame("frame")
 f:SetScript("OnEvent", function(self, event, ...) if self[event] then return self[event](self, event, ...) end end)
@@ -34,12 +33,6 @@ function SetMinimapOptions()
 		--this to be shown for positioning, so we blend it out but leave it there
 		MinimapBorderTop:SetAlpha(0)
 	end
-
-	--[[if (showMinimapToggleButton) then
-		MinimapToggleButton:Show()
-	else
-		MinimapToggleButton:Hide()
-	end--]]
 
 	if (showZoneText) then
 		MinimapZoneText:Show()
